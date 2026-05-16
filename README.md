@@ -1,1 +1,1 @@
-<<img src="https://i.pinimg.com/736x/23/ba/b6/23bab6c10bfc42cbf057944b4bea98cf.jpg" style="width: 100%; height: auto; display: block;" alt="Описание">
+<img src="https://i.pinimg.com/1200x/22/72/94/22729421a04c7afca17affc00aa692fe.jpg" style="width:100%; height: auto; display: block;">
