@@ -1,4 +1,3 @@
-
 <style>
   .card {
     display: block;
